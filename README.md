@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @tokucuahmet
 - 👀 Mekatronik Teknikeri
-- 🌱 ,  PLC
 - 💞️ Android Uygulama, PLC Kodlama, Robotik Kodlama, 3D Tasarım, Ev Otomasyonu; üzerlerinde çalışmaktayım.
 
 
-Tech Stack
-💻   Java
-🌐   HTML5 CSS JavaScript Bootstrap Node.js React
-🛢    MySQL MongoDB FireBase
-⚙️   SolidWorks Adobe Xd Fusion 360 Autocad Adobe Photoshop
-🔧   Visual Studio Code, Android Studio
+Tech Stack <br>
+💻   Arduino - C# - C++ <br>
+🌐   HTML5 - CSS - JavaScript - Node.js - React - Java <br>
+🛢    MySQL - FireBase <br>
+⚙️   SolidWorks - Fusion 360 - Autocad <br>
+🔧   Visual Studio Code, Android Studio <br>
+💻   Adobe Photoshop - Adobe Xd
