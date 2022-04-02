@@ -5,7 +5,7 @@
 
 Tech Stack <br>
 💻   Arduino - C# - C++ <br>
-🌐   HTML5 - CSS - JavaScript - Node.js - React - Java <br>
+🌐   HTML5 - CSS - JavaScript - React - Java <br>
 🛢    MySQL - FireBase <br>
 ⚙️   SolidWorks - Fusion 360 - Autocad <br>
 🔧   Visual Studio Code, Android Studio <br>
