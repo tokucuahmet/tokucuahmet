@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tokucuahmet
-- 👀 Mekatronik Teknikeri
+- 👀 Front End Developer
 - 💞️ Android Uygulama, PLC Kodlama, Robotik Kodlama, 3D Tasarım, Ev Otomasyonu; üzerlerinde çalışmaktayım.
 
 
